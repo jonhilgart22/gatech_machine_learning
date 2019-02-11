@@ -6,7 +6,7 @@
 
 
 #### Overview of packages used
-- The primary packages used from SKlearn which contains implementations of all of the algorithms neede for this assignment. 
+- The primary packages used from SKlearn which contains implementations of all of the algorithms needed for this assignment. 
 
 #### Link to the Jupyter Notebooks containing the analysis
 [Problem Set One](https://github.com/jonhilgart22/gatech_machine_learning/tree/master/problem%20set%201)
