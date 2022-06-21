@@ -9,7 +9,7 @@ idna==2.8
 Keras==2.2.4
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
-numpy==1.16.0
+numpy==1.22.0
 pycosat==0.6.3
 pycparser==2.19
 pyOpenSSL==18.0.0
@@ -43,7 +43,7 @@ mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.4
-numpy==1.16.0
+numpy==1.22.0
 pandocfilters==1.4.2
 parso==0.3.1
 pexpect==4.6.0
